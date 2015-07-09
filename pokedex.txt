@@ -1,0 +1,2455 @@
+[ Pokedex #PkBR ]
+[ By SCiele ]
+
+#001 - Bulbasaur
+Bulbasaur evolui no level 16 para Ivysaur
+LVL XX - Tackle
+LVL XX - Growl
+LVL 07 - Leech-Seed
+LVL 13 - Vine-Whip
+LVL 20 - Poison-Powder
+LVL 27 - Razor-Leaf
+LVL 34 - Growth
+LVL 41 - Sleep-Powder
+LVL 48 - Solar-Beam
+ 
+#002 - Ivysaur
+Ivysaur evolui no level 32 para Venusaur
+LVL XX - Tackle
+LVL XX - Growl
+LVL XX - Leech-Seed
+LVL XX - Vine-Whip
+LVL 22 - Poison-Powder
+LVL 30 - Razor-Leaf
+LVL 38 - Growth
+LVL 46 - Sleep-Powder
+LVL 54 - Solar-Beam
+ 
+#003 - Venusaur
+Venusaur não evolui
+LVL XX - Tackle
+LVL XX - Growl
+LVL XX - Leech-Seed
+LVL XX - Vine-Whip
+LVL XX - Poison-Powder
+LVL XX - Razor-Leaf
+LVL 43 - Growth
+LVL 55 - Sleep-Powder
+LVL 65 - Solar-Beam
+ 
+#004 - Charmander
+Charmander evolui no level 16 para Charmeleon
+LVL XX - Scratch
+LVL XX - Growl
+LVL 09 - Ember
+LVL 15 - Leer
+LVL 22 - Rage
+LVL 30 - Slash
+LVL 38 - Flamethrower
+LVL 46 - Fire-spin
+ 
+#005 - Charmeleon
+Charmeleon evolui no level 32 para Charizard
+LVL XX - Scratch
+LVL XX - Growl
+LVL XX - Ember
+LVL XX - Leer
+LVL 24 - Rage
+LVL 33 - Slash
+LVL 42 - Flamethrower
+LVL 56 - Fire-spin
+ 
+#006 - Charizard
+Charizard não evolui
+LVL XX - Scratch
+LVL XX - Growl
+LVL XX - Ember
+LVL XX - Leer
+LVL XX - Rage
+LVL 36 - Slash
+LVL 46 - Flamethrower
+LVL 55 - Fire-spin
+ 
+#007 - Squirtle
+Squirtle evolui no level 16 para Wartortle
+LVL XX - Tackle
+LVL XX - Growl
+LVL 9 - Bubble
+LVL 15 - Water-Gun
+LVL 22 - Bite
+LVL 28 - Withdraw
+LVL 35 - Skull-Bash
+LVL 42 - Hydro-Pump
+ 
+#008 - Wartortle
+Wartortle evolui no level 36 para Blastoise
+LVL XX - Tackle
+LVL XX - Growl
+LVL XX - Bubble
+LVL XX - Water-Gun
+LVL 24 - Bite
+LVL 31 - Withdraw
+LVL 39 - Skull-Bash
+LVL 47 - Hydro-Pump
+ 
+#009 - Blastoise
+Blastoise não evolui
+LVL XX - Tackle
+LVL XX - Growl
+LVL XX - Bubble
+LVL XX - Water-Gun
+LVL XX - Bite
+LVL XX - Withdraw
+LVL 42 - Skull-Bash
+LVL 52 - Hydro-Pump
+ 
+#010 - Caterpie
+Caterpie evolui no level 7 para Metapod
+LVL XX - Tackle
+LVL XX - String-Shot
+ 
+#011 - Metapod
+Metapod evolui no level 10 para Butterfree
+LVL XX - Tackle
+LVL XX - Harden
+ 
+#012 - Butterfree
+Butterfree não evolui
+LVL 12 - Confusion
+LVL 15 - Poison-Powder
+LVL 16 - Stun-Spore
+LVL 17 - Sleep-Powder
+LVL 21 - Supersonic
+LVL 26 - Whirlwind
+LVL 32 - Psybeam
+ 
+#013 - Weedle
+Weedle evolui no level 7 para Kakuna
+LVL XX - Tackle
+LVL XX - String-Shot
+ 
+#014 - Kakuna
+Kakuna evolui no level 10 para Beedrill
+LVL XX - Tackle
+LVL XX - Harden
+ 
+#015 - Beedrill
+Beedrill não evolui
+LVL 12 - Fury-Attack
+LVL 16 - Focus-Energy
+LVL 20 - Twineedle
+LVL 25 - Rage
+LVL 30 - Pin-Missile
+LVL 35 - Agility
+ 
+#016 - Pidgey
+Pidgey evolui no level 18 para Pidgeotto
+LVL XX - Gust
+LVL 05 - Sand-Attack
+LVL 12 - Quick-Attack
+LVL 19 - Whirlwind
+LVL 28 - Wing-Attack
+LVL 36 - Agility
+LVL 44 - Mirror-Move
+ 
+#017 - Pidgeotto
+Pidgeotto evolui no level 36 para Pidgeot
+LVL XX - Gust
+LVL XX - Sand-Attack
+LVL XX - Quick-Attack
+LVL 21 - Whirlwind
+LVL 31 - Wing-Attack
+LVL 40 - Agility
+LVL 49 - Mirror-Move
+ 
+#018 - Pidgeot
+Pidgeot não evolui
+LVL XX - Gust
+LVL XX - Sand-Attack
+LVL XX - Quick-Attack
+LVL XX - Whirlwind
+LVL XX - Wing-Attack
+LVL 44 - Agility
+LVL 54 - Mirror-Move
+ 
+#019 - Rattata
+Rattata evolui no level 20 para Raticate
+LVL XX - Tackle
+LVL XX - Tail-Whip
+LVL 07 - Quick-Attack
+LVL 14 - Hyper-Fang
+LVL 23 - Focus-Energy
+LVL 36 - Super-Fang
+ 
+#020 - Raticate
+Raticate não evolui
+LVL XX - Tackle
+LVL XX - Tail-Whip
+LVL XX - Quick-Attack
+LVL 14 - Hyper-Fang
+LVL 27 - Focus-Energy
+LVL 41 - Super-Fang
+ 
+#021 - Spearow
+Spearow evolui no level 20 para Fearow
+LVL XX - Peck
+LVL XX - Growl
+LVL 09 - Leer
+LVL 15 - Fury-Attack
+LVL 22 - Mirror-Move
+LVL 29 - Drill-Peck
+LVL 36 - Agility
+ 
+#022 - Fearow
+Fearow não evolui
+LVL XX - Peck
+LVL XX - Growl
+LVL XX - Leer
+LVL XX - Fury-Attack
+LVL 25 - Mirror-Move
+LVL 34 - Drill-Peck
+LVL 43 - Agility
+ 
+#023 - Ekans
+Ekans evolui no level 22 para Arbok
+LVL XX - Wrap
+LVL XX - Leer
+LVL 10 - Poison-Sting
+LVL 17 - Bite
+LVL 24 - Glare
+LVL 31 - Screech
+LVL 38 - Acid
+ 
+#024 - Arbok
+Arbok não evolui
+LVL XX - Wrap
+LVL XX - Leer
+LVL XX - Poison-Sting
+LVL 17 - Bite
+LVL 27 - Glare
+LVL 36 - Screech
+LVL 47 - Acid
+ 
+#025 - Pikachu
+Pikachu evolui com uma Thunderstone para Raichu
+LVL XX - Thundershock
+LVL XX - Growl
+LVL 09 - Thunderwave
+LVL 16 - Quick-Attack
+LVL 26 - Swift
+LVL 33 - Agility
+LVL 43 - Thunder
+ 
+#026 - Raichu
+Raichu não evolui
+LVL XX - Thundershock
+LVL XX - Growl
+LVL XX - Thunderwave
+LVL 16 - Quick-Attack
+LVL 26 - Swift
+LVL 33 - Agility
+LVL 43 - Thunder
+ 
+#027 - Sandshrew
+Sandshrew evolui no level 22 para Sandslash
+LVL XX - Scratch
+LVL 10 - Sand-Attack
+LVL 17 - Slash
+LVL 24 - Poison-Sting
+LVL 31 - Swift
+LVL 38 - Fury-Swipes
+ 
+#028 - Sandslash
+Sandslash não evolui
+LVL XX - Scratch
+LVL XX - Sand-Attack
+LVL XX - Slash
+LVL 27 - Poison-Sting
+LVL 36 - Swift
+LVL 47 - Fury-Swipes
+ 
+#029 - Nidoran(f)
+Nidoran(f) evolui no level 16 para Nidorina
+LVL XX - Tackle
+LVL XX - Growl
+LVL 08 - Scratch
+LVL 14 - Poison-Sting
+LVL 21 - Tail-Whip
+LVL 29 - Bite
+LVL 36 - Fury-Swipes
+LVL 43 - Double-Kick
+ 
+#030 - Nidorina
+Nidorina evolui com uma Moonstone para Nidoqueen
+LVL XX - Tackle
+LVL XX - Growl
+LVL XX - Scratch
+LVL 14 - Poison-Sting
+LVL 23 - Tail-Whip
+LVL 32 - Bite
+LVL 41 - Fury-Swipes
+LVL 50 - Double-Kick
+ 
+#031 - Nidoqueen
+Nidoqueen não evolui
+LVL XX - Tackle
+LVL XX - Scratch
+LVL XX - Tail-Whip
+LVL 14 - Poison-Sting
+LVL 23 - Body-Slam
+ 
+#032 - Nidoran(m)
+Nidoran(m) evolui no level 16 para Nidorino
+LVL XX - Leer
+LVL XX - Tackle
+LVL 08 - Horn-Attack
+LVL 14 - Poison-Sting
+LVL 21 - Focus-Energy
+LVL 29 - Fury-Attack
+LVL 36 - Horn-Drill
+LVL 43 - Double-Kick
+ 
+#033 - Nidorino
+Nidorino evolui com uma Moonstone para Nidoking
+LVL XX - Leer
+LVL XX - Tackle
+LVL XX - Horn-Attack
+LVL XX - Poison-Sting
+LVL 23 - Focus-Energy
+LVL 32 - Fury-Attack
+LVL 41 - Horn-Drill
+LVL 50 - Double-Kick
+ 
+#034 - Nidoking
+Nidoking não evolui
+LVL XX - Tackle
+LVL XX - Horn-Attack
+LVL XX - Poison-Sting
+LVL 23 - Thrash
+ 
+#035 - Clefairy
+Clefairy evolui com uma Moonstone para Clefable
+LVL XX - Pound
+LVL XX - Growl
+LVL 18 - Doubleslap
+LVL 24 - Minimize
+LVL 31 - Metronome
+LVL 39 - Defense-Curl
+LVL 48 - Light-Screen
+ 
+#036 - Clefable
+Clefable não evolui
+LVL XX - Sing
+LVL XX - Doubleslap
+LVL XX - Minimize
+LVL XX - Metronome
+ 
+#037 - Vulpix
+Vulpix evolui com uma Firestone para Ninetales
+LVL XX - Ember
+LVL XX - Tail-Whip
+LVL 16 - Quick-Attack
+LVL 21 - Roar
+LVL 28 - Confuse-Ray
+LVL 35 - Flamethrower
+LVL 42 - Fire-Spin
+ 
+#038 - Ninetales
+Ninetales não evolui
+LVL XX - Ember
+LVL XX - Tail-Whip
+LVL XX - Quick-Attack
+LVL XX - Roar
+ 
+#039 - Jigglypuff
+Jigglypuff evolui com uma Moonstone para Wigglytuff
+LVL XX - Sing
+LVL 09 - Pound
+LVL 14 - Disable
+LVL 19 - Defense-Curl
+LVL 24 - Doubleslap
+LVL 29 - Rest
+LVL 34 - Body-Slam
+LVL 39 - Double-Edge
+ 
+#040 - Wigglytuff
+Wigglytuff não evolui
+LVL XX - Sing
+LVL XX - Disable
+LVL XX - Defense-Curl
+LVL XX - Doubleslap
+ 
+#041 - Zubat
+Zubat evolui no level 22 para Golbat
+LVL XX - Leech-Life
+LVL 10 - Supersonic
+LVL 15 - Bite
+LVL 21 - Confuse-Ray
+LVL 28 - Wing-Attack
+LVL 36 - Haze
+ 
+#042 - Golbat
+Golbat não evolui
+LVL XX - Leech-Life
+LVL XX - Supersonic
+LVL XX - Bite
+LVL XX - Confuse-Ray
+LVL 32 - Wing-Attack
+LVL 43 - Haze
+ 
+#043 - Oddish
+Oddish evolui no level 21 para Gloom
+LVL XX - Absorb
+LVL 15 - Poison-Powder
+LVL 17 - Stun-Spore
+LVL 19 - Sleep-Powder
+LVL 24 - Acid
+LVL 33 - Petal-Dance
+LVL 46 - Solar-Beam
+ 
+#044 - Gloom
+Gloom evolui com uma Leafstone para Vileplume
+LVL XX - Absorb
+LVL XX - Poison-Powder
+LVL XX - Stun-Spore
+LVL XX - Sleep-Powder
+LVL 24 - Acid
+LVL 33 - Petal-Dance
+LVL 46 - Solar-Beam
+ 
+#045 - Vileplume
+Vileplume não evolui
+LVL XX - Poison-Powder
+LVL XX - Stun-Spore
+LVL XX - Sleep-Powder
+ 
+#046 - Paras
+Paras evolui no level 24 para Parasect
+LVL XX - Scratch
+LVL 13 - Stun-Spore
+LVL 20 - Leech-Life
+LVL 27 - Spore
+LVL 34 - Slash
+LVL 41 - Growth
+ 
+#047 - Parasect
+Parasect não evolui
+LVL XX - Scratch
+LVL XX - Stun-Spore
+LVL XX - Leech-Life
+LVL 30 - Spore
+LVL 39 - Slash
+LVL 48 - Growth
+ 
+#048 - Venonat
+Venonat evolui no level 31 para Venomoth
+LVL XX - Tackle
+LVL XX - Disable
+LVL 24 - Poison-Powder
+LVL 27 - Leech-Life
+LVL 30 - Stun-Spore
+LVL 35 - Psybeam
+LVL 38 - Sleep-Powder
+LVL 43 - Psychic
+ 
+#049 - Venomoth
+Venomoth não evolui
+LVL XX - Tackle
+LVL XX - Disable
+LVL XX - Poison-Powder
+LVL XX - Leech-Life
+LVL XX - Stun-Spore
+LVL 38 - Psybeam
+LVL 43 - Sleep-Powder
+LVL 50 - Psychic
+ 
+#050 - Digglet
+Digglet evolui no level 26 para Dugtrio
+LVL XX - Scratch
+LVL 15 - Growl
+LVL 19 - Dig
+LVL 24 - Sand-Attack
+LVL 31 - Slash
+LVL 40 - Earthquake
+ 
+#051 - Dugtrio
+Dugtrio não evolui
+LVL XX - Scratch
+LVL XX - Growl
+LVL XX - Dig
+LVL XX - Sand-Attack
+LVL 35 - Slash
+LVL 47 - Earthquake
+ 
+#052 - Meowth
+Meowth evolui no level 28 para Persian
+LVL XX - Scratch
+LVL XX - Growl
+LVL 12 - Bite
+LVL 17 - Pay-Day
+LVL 24 - Screech
+LVL 33 - Fury-Swipes
+LVL 44 - Slash
+ 
+#053 - Persian
+Persian não evolui
+LVL XX - Scratch
+LVL XX - Growl
+LVL XX - Bite
+LVL XX - Pay-Day
+LVL XX - Screech
+LVL 37 - Fury-Swipes
+LVL 51 - Slash
+ 
+#054 - Psyduck
+Psyduck evolui no level 33 para Golduck
+LVL XX - Scratch
+LVL 28 - Tail-Whip
+LVL 31 - Disable
+LVL 36 - Confusion
+LVL 43 - Fury-Swipes
+LVL 52 - Hydro-Pump
+ 
+#055 - Golduck
+Golduck não evolui
+LVL XX - Scratch
+LVL XX - Tail-Whip
+LVL XX - Disable
+LVL 39 - Confusion
+LVL 48 - Fury-Swipes
+LVL 59 - Hydro-Pump
+ 
+#056 - Mankey
+Mankey evolui no level 28 para Primeape
+LVL XX - Scratch
+LVL XX - Leer
+LVL 15 - Karate-Chop
+LVL 21 - Fury-Attack
+LVL 27 - Focus-Energy
+LVL 33 - Seismic-Toss
+LVL 39 - Thrash
+ 
+#057 - Primeape
+Primeape não evolui
+LVL XX - Scratch
+LVL XX - Leer
+LVL XX - Karate-Chop
+LVL XX - Fury-Attack
+LVL XX - Focus-Energy
+LVL 37 - Seismic-Toss
+LVL 46 - Thrash
+ 
+#058 - Growlithe
+Growlithe evolui com uma Firestone para Arcanine
+LVL XX - Bite
+LVL XX - Roar
+LVL 18 - Ember
+LVL 23 - Leer
+LVL 30 - Take-Down
+LVL 39 - Agility
+LVL 50 - Flamethrower
+ 
+#059 - Arcanine
+Arcanine não evolui
+LVL XX - Bite
+LVL XX - Roar
+LVL XX - Ember
+LVL XX - Leer
+LVL XX - Take-Down
+ 
+#060 - Poliwag
+Poliwag evolui no level 25 para Poliwhirl
+LVL XX - Bubble
+LVL 16 - Hypnosis
+LVL 19 - Water-Gun
+LVL 25 - Doubleslap
+LVL 31 - Body-Slam
+LVL 38 - Amnesia
+LVL 45 - Hydro-Pump
+ 
+#061 - Poliwhirl
+Poliwhirl evolui com uma Waterstone para Poliwrath
+LVL XX - Bubble
+LVL XX - Hypnosis
+LVL XX - Water-Gun
+LVL 26 - Doubleslap
+LVL 33 - Body-Slam
+LVL 41 - Amnesia
+LVL 49 - Hydro-Pump
+ 
+#062 - Poliwrath
+Poliwrath não evolui
+LVL XX - Bubble
+LVL XX - Hypnosis
+LVL XX - Water-Gun
+ 
+#063 - Abra
+Abra evolui no level 16 para Kadabra
+LVL XX - Teleport
+ 
+#064 - Kadabra
+Kadabra evolui com uma Troca para Alakazam
+LVL XX - Teleport
+LVL XX - Confusion
+LVL 20 - Disable
+LVL 27 - Psybeam
+LVL 31 - Recover
+LVL 38 - Psychic
+LVL 42 - Reflect
+ 
+#065 - Alakazam
+Alakazam não evolui
+LVL XX - Teleport
+LVL XX - Confusion
+LVL 20 - Disable
+LVL 27 - Psybeam
+LVL 31 - Recover
+LVL 38 - Psychic
+LVL 42 - Reflect
+ 
+#066 - Machop
+Machop evolui no level 28 para Machoke
+LVL XX - Karate-Chop
+LVL 20 - Low-Kick
+LVL 25 - Leer
+LVL 32 - Focus-Energy
+LVL 39 - Seismic-Toss
+LVL 46 - Submission
+ 
+#067 - Machoke
+Machoke evolui com uma Troca para Machamp
+LVL XX - Karate-Chop
+LVL XX - Low-Kick
+LVL XX - Leer
+LVL 36 - Focus-Energy
+LVL 44 - Seismic-Toss
+LVL 52 - Submission
+ 
+#068 - Machamp
+Machamp não evolui
+LVL XX - Karate-Chop
+LVL XX - Low-Kick
+LVL XX - Leer
+LVL 36 - Focus-Energy
+LVL 44 - Seismic-Toss
+LVL 52 - Submission
+ 
+#069 - Bellsprout
+Bellsprout evolui no level 21 para Weepinbell
+LVL XX - Vine-Whip
+LVL XX - Growth
+LVL 13 - Wrap
+LVL 15 - Poison-Powder
+LVL 18 - Sleep-Powder
+LVL 21 - Stun-Spore
+LVL 26 - Acid
+LVL 33 - Razor-Leaf
+LVL 42 - Slam
+ 
+#070 - Weepinbell
+Weepinbell evolui com uma Leafstone para Victreebell
+LVL XX - Vine-Whip
+LVL XX - Growth
+LVL XX - Wrap
+LVL XX - Poison-Powder
+LVL XX - Sleep-Powder
+LVL 23 - Stun-Spore
+LVL 29 - Acid
+LVL 38 - Razor-Leaf
+LVL 49 - Slam
+ 
+#071 - Victreebell
+Victreebell não evolui
+LVL XX - Wrap
+LVL XX - Poison-Powder
+LVL XX - Sleep-Powder
+ 
+#072 - Tentacool
+Tentacool evolui no level 30 para Tentacruel
+LVL XX - Acid
+LVL 07 - Supersonic
+LVL 13 - Wrap
+LVL 18 - Poison-Sting
+LVL 22 - Water-Gun
+LVL 27 - Constrict
+LVL 33 - Barrier
+LVL 40 - Screech
+LVL 48 - Hydro-Pump
+ 
+#073 - Tentacruel
+Tentacruel não evolui
+LVL XX - Acid
+LVL XX - Supersonic
+LVL XX - Wrap
+LVL XX - Poison-Sting
+LVL XX - Water-Gun
+LVL XX - Constrict
+LVL 35 - Barrier
+LVL 43 - Screech
+LVL 50 - Hydro-Pump
+ 
+#074 - Geodude
+Geodude evolui no level 25 para Graveler
+LVL XX - Tackle
+LVL 07 - Defense-Curl
+LVL 13 - Rock-Throw
+LVL 18 - Self-Destruct
+LVL 22 - Harden
+LVL 27 - Earthquake
+LVL 33 - Explosion
+ 
+#075 - Graveler
+Graveler evolui com uma Troca para Golem
+LVL XX - Tackle
+LVL XX - Defense-Curl
+LVL XX - Rock-Throw
+LVL XX - Self-Destruct
+LVL 29 - Harden
+LVL 36 - Earthquake
+LVL 43 - Explosion
+ 
+#076 - Golem
+Golem não evolui
+LVL XX - Tackle
+LVL XX - Defense-Curl
+LVL XX - Rock-Throw
+LVL XX - Self-Destruct
+LVL 29 - Harden
+LVL 36 - Earthquake
+LVL 43 - Explosion
+ 
+#077 - Ponyta
+Ponyta evolui no level 40 para Rapidash
+LVL XX - Ember
+LVL 30 - Tail-Whip
+LVL 32 - Stomp
+LVL 35 - Growl
+LVL 39 - Fire-Spin
+LVL 43 - Take-Down
+LVL 48 - Agility
+ 
+#078 - Rapidash
+Rapidash não evolui
+LVL XX - Ember
+LVL XX - Tail-Whip
+LVL XX - Stomp
+LVL XX - Growl
+LVL XX - Fire-Spin
+LVL 47 - Take-Down
+LVL 55 - Agility
+ 
+#079 - Slowpoke
+Slowpoke evolui no level 37 para Slowbro
+LVL XX - Confusion
+LVL 30 - Disable
+LVL 32 - Headbutt
+LVL 35 - Growl
+LVL 39 - Water-Gun
+LVL 43 - Amnesia
+LVL 48 - Psychic
+ 
+#080 - Slowbro
+Slowbro não evolui
+LVL XX - Confusion
+LVL XX - Disable
+LVL XX - Headbutt
+LVL XX - Growl
+LVL XX - Water-Gun
+LVL 44 - Amnesia
+LVL 55 - Psychic
+ 
+#081 - Magnemite
+Magnemite evolui no level 30 para Magneton
+LVL XX - Tackle
+LVL 21 - Sonic-Boom
+LVL 25 - Thundershock
+LVL 29 - Supersonic
+LVL 35 - ThunderWave
+LVL 41 - Swift
+LVL 47 - Screech
+ 
+#082 - Magneton
+Magneton não evolui
+LVL XX - Tackle
+LVL XX - Sonic-Boom
+LVL XX - Thundershock
+LVL XX - Supersonic
+LVL 38 - ThunderWave
+LVL 46 - Swift
+LVL 54 - Screech
+ 
+#083 - Farfetch'd
+Farfetch'd não evolui
+LVL XX - Peck
+LVL XX - Sand-Attack
+LVL 07 - Leer
+LVL 15 - Fury-Attack
+LVL 23 - Swords-Dance
+LVL 31 - Agility
+LVL 39 - Slash
+ 
+#084 - Doduo
+Doduo evolui no level 31 para Dodrio
+LVL XX - Peck
+LVL 20 - Growl
+LVL 24 - Fury-Attack
+LVL 30 - Drill-Peck
+LVL 36 - Rage
+LVL 40 - Tri-Attack
+LVL 44 - Agility
+ 
+#085 - Dodrio
+Dodrio não evolui
+LVL XX - Peck
+LVL XX - Growl
+LVL XX - Fury-Attack
+LVL XX - Drill-Peck
+LVL 39 - Rage
+LVL 45 - Tri-Attack
+LVL 51 - Agility
+ 
+#086 - Seel
+Seel evolui no level 34 para Dewgong
+LVL XX - Headbutt
+LVL 30 - Growl
+LVL 35 - Aurora-Beam
+LVL 40 - Rest
+LVL 45 - Take-Down
+LVL 50 - Ice-Beam
+ 
+#087 - Dewgong
+Dewgong não evolui
+LVL XX - Headbutt
+LVL XX - Growl
+LVL 35 - Aurora-Beam
+LVL 44 - Rest
+LVL 50 - Take-Down
+LVL 56 - Ice-Beam
+ 
+#088 - Grimer
+Grimer evolui no level 38 para Muk
+LVL XX - Pound
+LVL XX - Disable
+LVL 30 - Poison-Gas
+LVL 33 - Minimize
+LVL 37 - Sludge
+LVL 42 - Harden
+LVL 48 - Screech
+LVL 55 - Acid-Armor
+ 
+#089 - Muk
+Muk não evolui
+LVL XX - Pound
+LVL XX - Disable
+LVL XX - Poison-Gas
+LVL XX - Minimize
+LVL XX - Sludge
+LVL 45 - Harden
+LVL 53 - Screech
+LVL 60 - Acid-Armor
+ 
+#090 - Shellder
+Shellder evolui com uma Waterstone para Cloyster
+LVL XX - Tackle
+LVL XX - Withdraw
+LVL 18 - Supersonic
+LVL 23 - Clamp
+LVL 30 - Aurora-Beam
+LVL 39 - Leer
+LVL 50 - Ice-Beam
+ 
+#091 - Cloyster
+Cloyster não evolui
+LVL XX - Withdraw
+LVL XX - Supersonic
+LVL XX - Clamp
+LVL XX - Aurora-Beam
+LVL 50 - Spike-Cannon
+ 
+#092 - Gastly
+Gastly evolui no level 25 para Haunter
+LVL XX - Lick
+LVL XX - Confuse-Ray
+LVL XX - Night-Shade
+LVL 27 - Hypnosis
+LVL 35 - Dream-Eater
+ 
+#093 - Haunter
+Haunter evolui com uma Troca para Gengar
+LVL XX - Lick
+LVL XX - Confuse-Ray
+LVL XX - Night-Shade
+LVL 29 - Hypnosis
+LVL 38 - Dream-Eater
+ 
+#094 - Gengar
+Gengar não evolui
+LVL XX - Lick
+LVL XX - Confuse-Ray
+LVL XX - Night-Shade
+LVL 29 - Hypnosis
+LVL 38 - Dream-Eater
+ 
+#095 - Onix
+Onix não evolui
+LVL XX - Tackle
+LVL XX - Screech
+LVL 15 - Bind
+LVL 19 - Rock-Throw
+LVL 25 - Rage
+LVL 33 - Slam
+LVL 43 - Harden
+ 
+#096 - Drowzee
+Drowzee evolui no level 26 para Hypno
+LVL XX - Pound
+LVL XX - Hypnosis
+LVL 12 - Disable
+LVL 17 - Confusion
+LVL 24 - Headbutt
+LVL 29 - Poison-Gas
+LVL 32 - Psychic
+LVL 37 - Meditate
+ 
+#097 - Hypno
+Hypno não evolui
+LVL XX - Pound
+LVL XX - Hypnosis
+LVL XX - Disable
+LVL XX - Confusion
+LVL XX - Headbutt
+LVL 33 - Poison-Gas
+LVL 37 - Psychic
+LVL 43 - Meditate
+ 
+#098 - Krabby
+Krabby evolui no level 28 para Kingler
+LVL XX - Bubble
+LVL XX - Leer
+LVL 20 - Vicegrip
+LVL 25 - Guilhotine
+LVL 30 - Stomp
+LVL 35 - Crab-Hammer
+LVL 40 - Harden
+ 
+#099 - Kingler
+Kingler não evolui
+LVL XX - Bubble
+LVL XX - Leer
+LVL XX - Vicegrip
+LVL XX - Guilhotine
+LVL 34 - Stomp
+LVL 42 - Crab-Hammer
+LVL 49 - Harden
+ 
+#100 - Voltorb
+Voltorb evolui no level 30 para Electrode
+LVL XX - Tackle
+LVL XX - Screech
+LVL 22 - Self-Destruct
+LVL 29 - Light-Screen
+LVL 36 - Swift
+LVL 43 - Explosion
+ 
+#101 - Electrode
+Electrode não evolui
+LVL XX - Tackle
+LVL XX - Screech
+LVL XX - Self-Destruct
+LVL XX - Light-Screen
+LVL 40 - Swift
+LVL 50 - Explosion
+ 
+#102 - Exeggcute
+Exeggcute evolui com uma Leafstone para Exeggcutor
+LVL XX - Barrage
+LVL XX - Hypnosis
+LVL 25 - Reflect
+LVL 28 - Leech-Seed
+LVL 32 - Stun-Spore
+LVL 37 - Poison-Powder
+LVL 42 - Solar-Beam
+LVL 48 - Sleep-Powder
+ 
+#103 - Exeggcutor
+Exeggcutor não evolui
+LVL XX - Barrage
+LVL XX - Hypnosis
+LVL 25 - Reflect
+LVL 28 - Leech-Seed
+ 
+#104 - Cubone
+Cubone evolui no level 28 para Marowak
+LVL XX - Bone-Club
+LVL XX - Growl
+LVL 25 - Leer
+LVL 31 - Focus-Energy
+LVL 38 - Thrash
+LVL 43 - Bonemerang
+LVL 46 - Rage
+ 
+#105 - Marowak
+Marowak não evolui
+LVL XX - Bone-Club
+LVL XX - Growl
+LVL XX - Leer
+LVL 33 - Focus-Energy
+LVL 41 - Thrash
+LVL 48 - Bonemerang
+LVL 55 - Rage
+ 
+#106 - Hitmonlee
+Hitmonlee não evolui
+LVL XX - Double-Kick
+LVL XX - Meditate
+LVL 33 - Rolling-Kick
+LVL 38 - Jump-Kick
+LVL 43 - Focus-Energy
+LVL 48 - Hi-Jump-Kick
+LVL 53 - Mega-Kick
+ 
+#107 - Hitmonchan
+Hitmonchan não evolui
+LVL XX - Comet-Punch
+LVL XX - Agility
+LVL 33 - Fire-Punch
+LVL 38 - Ice-Punch
+LVL 43 - ThunderPunch
+LVL 48 - Mega-Punch
+LVL 53 - Counter
+ 
+#108 - Lickitung
+Lickitung não evolui
+LVL XX - Wrap
+LVL XX - Supersonic
+LVL 07 - Stomp
+LVL 15 - Disable
+LVL 23 - Defense-Curl
+LVL 31 - Slam
+LVL 39 - Screech
+ 
+#109 - Koffing
+Koffing evolui no level 35 para Weezing
+LVL XX - Tackle
+LVL XX - Smog
+LVL 32 - Sludge
+LVL 37 - Smoke-Screen
+LVL 40 - Self-Destruct
+LVL 45 - Haze
+LVL 48 - Explosion
+ 
+#110 - Weezing
+Weezing não evolui
+LVL XX - Tackle
+LVL XX - Smog
+LVL XX - Sludge
+LVL 39 - Smoke-Screen
+LVL 43 - Self-Destruct
+LVL 49 - Haze
+LVL 53 - Explosion
+ 
+#111 - Rhyhorn
+Rhyhorn evolui no level 42 para Rhydon
+LVL XX - Horn-Attack
+LVL 30 - Stomp
+LVL 35 - Tail-Whip
+LVL 40 - Fury-Attack
+LVL 45 - Horn-Drill
+LVL 50 - Leer
+LVL 55 - Take-Down
+ 
+#112 - Rhydon
+Rhydon não evolui
+LVL XX - Horn-Attack
+LVL XX - Stomp
+LVL XX - Tail-Whip
+LVL XX - Fury-Attack
+LVL 48 - Horn-Drill
+LVL 55 - Leer
+LVL 64 - Take-Down
+ 
+#113 - Chansey
+Chansey não evolui
+LVL XX - Pound
+LVL XX - Doubleslap
+LVL 24 - Sing
+LVL 30 - Growl
+LVL 38 - Minimize
+LVL 44 - Defense-Curl
+LVL 48 - Light-Screen
+LVL 54 - Double-Edge
+ 
+#114 - Tangela
+Tangela não evolui
+LVL XX - Constrict
+LVL XX - Bind
+LVL 29 - Absorb
+LVL 32 - Poison-Powder
+LVL 36 - Stun-Spore
+LVL 39 - Sleep-Powder
+LVL 45 - Slam
+LVL 49 - Growth
+ 
+#115 - Kangaskhan
+Kangaskhan não evolui
+LVL XX - Comet-Punch
+LVL XX - Rage
+LVL 26 - Bite
+LVL 31 - Tail-Whip
+LVL 36 - Mega-Punch
+LVL 41 - Leer
+LVL 46 - Dizzy-Punch
+ 
+#116 - Horsea
+Horsea evolui no level 32 para Seadra
+LVL XX - Bubble
+LVL 19 - Smoke-Screen
+LVL 24 - Leer
+LVL 30 - Water-Gun
+LVL 37 - Agility
+LVL 45 - Hydro-Pump
+ 
+#117 - Seadra
+Seadra não evolui
+LVL XX - Bubble
+LVL XX - Smoke-Screen
+LVL XX - Leer
+LVL XX - Water-Gun
+LVL 41 - Agility
+LVL 52 - Hydro-Pump
+ 
+#118 - Goldeen
+Goldeen evolui no level 33 para Seaking
+LVL XX - Peck
+LVL XX - Tail-Whip
+LVL 19 - Supersonic
+LVL 24 - Horn-Attack
+LVL 30 - Fury-Attack
+LVL 37 - Waterfall
+LVL 45 - Horn-Drill
+LVL 54 - Agility
+ 
+#119 - Seaking
+Seaking não evolui
+LVL XX - Peck
+LVL XX - Tail-Whip
+LVL XX - Supersonic
+LVL XX - Horn-Attack
+LVL XX - Fury-Attack
+LVL 39 - Waterfall
+LVL 48 - Horn-Drill
+LVL 54 - Agility
+ 
+#120 - Staryu
+Staryu evolui com uma Waterstone para Starmie
+LVL XX - Tackle
+LVL XX - Water-Gun
+LVL XX - Harden
+LVL XX - Recover
+LVL XX - Swift
+LVL 39 - Minimize
+LVL 48 - Light-Screen
+LVL 54 - Hydro-Pump
+ 
+#121 - Starmie
+Starmie não evolui
+LVL XX - Tackle
+LVL XX - Water-Gun
+LVL XX - Harden
+ 
+#122 - Mr.Mime
+Mr.Mime não evolui
+LVL XX - Confusion
+LVL XX - Barrier
+LVL 23 - Light-Screen
+LVL 31 - Doubleslap
+LVL 39 - Meditate
+LVL 47 - Substitute
+ 
+#123 - Scyther
+Scyther não evolui
+LVL XX - Quick-Attack
+LVL 17 - Leer
+LVL 20 - Focus-Energy
+LVL 24 - Double-Team
+LVL 29 - Slash
+LVL 35 - Swords-Dance
+LVL 42 - Agility
+ 
+#124 - Jynx
+Jynx não evolui
+LVL XX - Pound
+LVL XX - Lovely-Kiss
+LVL 15 - Sing
+LVL 23 - Doubleslap
+LVL 31 - Ice-Punch
+LVL 39 - Meditate
+LVL XX - Pound
+LVL XX - Lovely-Kiss
+LVL 15 - Sing
+LVL 23 - Doubleslap
+LVL 31 - Ice-Punch
+LVL 39 - Meditate
+ 
+#125 - Electabuzz
+Electabuzz não evolui
+LVL XX - Quick-Attack
+LVL 17 - Leer
+LVL 20 - Thundershock
+LVL 24 - Screech
+LVL 29 - Thunderpunch
+LVL 35 - Light-Screen
+LVL 42 - Thunder
+ 
+#126 - Magmar
+Magmar não evolui
+LVL XX - Ember
+LVL 36 - Leer
+LVL 39 - Confuse-Ray
+LVL 43 - Fire-Punch
+LVL 48 - Smoke-Screen
+LVL 52 - Smog
+LVL 55 - Flamethrower
+ 
+#127 - Pinsir
+Pinsir não evolui
+LVL XX - Vicegrip
+LVL 25 - Seismic-Toss
+LVL 30 - Guilhotine
+LVL 36 - Focus-Energy
+LVL 43 - Harden
+LVL 49 - Slash
+LVL 54 - Swords-Dance
+ 
+#128 - Taurus
+Taurus não evolui
+LVL XX - Vicegrip
+LVL 25 - Seismic-Toss
+LVL 30 - Guilhotine
+LVL 36 - Focus-Energy
+LVL 43 - Harden
+LVL 49 - Slash
+LVL 54 - Swords-Dance
+ 
+#129 - Magikarp
+Magikarp evolui no level 20 para Gyarados
+LVL XX - Splash
+LVL 15 - Tackle
+ 
+#130 - Gyarados
+Gyarados não evolui
+LVL 20 - Bite
+LVL 25 - Dragon-Rage
+LVL 32 - Leer
+LVL 41 - Hydro-Pump
+LVL 52 - Hyper-Beam
+ 
+#131 - Lapras
+Lapras não evolui
+LVL XX - Water-Gun
+LVL XX - Growl
+LVL 16 - Sing
+LVL 20 - Mist
+LVL 25 - Body-Slam
+LVL 31 - Confuse-Ray
+LVL 38 - Ice-Beam
+LVL 46 - Hydro-Pump
+ 
+#132 - Ditto
+Ditto não evolui
+LVL XX - Transform
+ 
+#133 - Eevee
+Eevee evolui com uma Special para Vaporeon
+LVL XX - Tackle
+LVL XX - Sand-Attack
+LVL 27 - Quick-Attack
+LVL 31 - Tail-Whip
+LVL 37 - Bite
+LVL 45 - Take-Down
+ 
+#134 - Vaporeon
+Vaporeon não evolui
+LVL XX - Tackle
+LVL XX - Sand-Attack
+LVL 27 - Quick-Attack
+LVL 31 - Water-Gun
+LVL 37 - Tail-Whip
+LVL 40 - Bite
+LVL 42 - Acid-Armor
+LVL 44 - Haze
+LVL 48 - Mist
+LVL 54 - Hydro-Pump
+ 
+#135 - Jolteon
+Jolteon não evolui
+LVL XX - Tackle
+LVL XX - Sand-Attack
+LVL 27 - Quick-Attack
+LVL 31 - Thundershock
+LVL 37 - Tail-Whip
+LVL 40 - Thunderwave
+LVL 42 - Double-Kick
+LVL 44 - Agility
+LVL 48 - Pin-Missile
+LVL 54 - Thunder
+ 
+#136 - Flareon
+Flareon não evolui
+LVL XX - Tackle
+LVL XX - Sand-Attack
+LVL 27 - Quick-Attack
+LVL 31 - Ember
+LVL 37 - Tail-Whip
+LVL 40 - Bite
+LVL 42 - Leer
+LVL 44 - Fire-Spin
+LVL 48 - Rage
+LVL 54 - Flamethrower
+ 
+#137 - Porygon
+Porygon não evolui
+LVL XX - Tackle
+LVL XX - Sharpen
+LVL XX - Conversion
+LVL 23 - Psybeam
+LVL 28 - Harden
+LVL 35 - Agility
+LVL 42 - Tri-Attack
+ 
+#138 - Omanyte
+Omanyte evolui no level 40 para Omastar
+LVL XX - Water-Gun
+LVL XX - Withdraw
+LVL 34 - Horn-Attack
+LVL 39 - Leer
+LVL 44 - Spike-Cannon
+LVL 49 - Hydro-Pump
+ 
+#139 - Omastar
+Omastar não evolui
+LVL XX - Water-Gun
+LVL XX - Withdraw
+LVL XX - Horn-Attack
+LVL XX - Leer
+LVL 46 - Spike-Cannon
+LVL 53 - Hydro-Pump
+ 
+#140 - Kabuto
+Kabuto evolui no level 40 para Kabutops
+LVL XX - Scratch
+LVL XX - Harden
+LVL 34 - Absorb
+LVL 39 - Slash
+LVL 46 - Leer
+LVL 53 - Hydro-Pump
+ 
+#141 - Kabutops
+Kabutops não evolui
+LVL XX - Scratch
+LVL XX - Harden
+LVL XX - Absorb
+LVL XX - Slash
+LVL 46 - Leer
+LVL 53 - Hydro-Pump
+ 
+#142 - Aerodactyl
+Aerodactyl não evolui
+LVL XX - Wing-Attack
+LVL XX - Agility
+LVL 33 - Supersonic
+LVL 38 - Bite
+LVL 45 - Take-Down
+LVL 54 - Hyper-Beam
+ 
+#143 - Snorlax
+Snorlax não evolui
+LVL XX - Headbutt
+LVL XX - Amnesia
+LVL XX - Rest
+LVL 35 - Body-Slam
+LVL 41 - Harden
+LVL 48 - Double-Edge
+LVL 56 - Hyper-Beam
+ 
+#144 - Articuno
+Articuno não evolui
+LVL XX - Peck
+LVL XX - Ice-Beam
+LVL 51 - Blizzard
+LVL 55 - Agility
+LVL 60 - Mist
+ 
+#145 - Zapdos
+Zapdos não evolui
+LVL XX - Thundershock
+LVL XX - Drill-Peck
+LVL 51 - Thunder
+LVL 55 - Agility
+LVL 60 - Light-Screen
+ 
+#146 - Moltres
+Moltres não evolui
+LVL XX - Peck
+LVL XX - Fire-Spin
+LVL 51 - Leer
+LVL 55 - Agility
+LVL 60 - Sky-Attack
+ 
+#147 - Dratini
+Dratini evolui no level 30 para Dragonair
+LVL XX - Wrap
+LVL XX - Leer
+LVL 10 - ThunderWave
+LVL 20 - Agility
+LVL 30 - Slam
+LVL 40 - Dragon-Rage
+LVL 50 - Hyper-Beam
+ 
+#148 - Dragonair
+Dragonair evolui no level 55 para Dragonite
+LVL XX - Wrap
+LVL XX - Leer
+LVL XX - ThunderWave
+LVL XX - Agility
+LVL 35 - Slam
+LVL 45 - Dragon-Rage
+LVL 55 - Hyper-Beam
+ 
+#149 - Dragonite
+Dragonite não evolui
+LVL XX - Wrap
+LVL XX - Leer
+LVL XX - ThunderWave
+LVL XX - Agility
+LVL XX - Slam
+LVL XX - Dragon-Rage
+LVL 60 - Hyper-Beam
+ 
+#150 - Mewtwo
+Mewtwo não evolui
+LVL XX - Confusion
+LVL XX - Disable
+LVL XX - Swift
+LVL 63 - Barrier
+LVL 66 - Psychic
+LVL 70 - Recover
+LVL 75 - Mist
+LVL 81 - Amnesia
+ 
+#151 - Mew
+Mew não evolui
+LVL 10 - Transform
+LVL 20 - Mega-Punch
+LVL 30 - Metronome
+LVL 40 - Psychic
+ 
+#152 - Chikorita
+LVL XX - Tackle
+LVL XX - Growl
+LVL 8 - Razor-Leaf
+LVL 12 - Reflect
+LVL 15 - Poison-Powder
+LVL 22 - Synthesis
+LVL 29 - Body-Slam
+LVL 36 - Light-Screen
+LVL 43 - Safeguard
+LVL 50 - Solar-Beam
+ 
+#153 - Bayleef
+LVL XX - Tackle
+LVL XX - Growl
+LVL XX - Razor-Leaf
+LVL XX - Reflect
+LVL 15 - Poison-Powder
+LVL 23 - Synthesis
+LVL 23 - Synthesis
+LVL 31 - Body-Slam
+LVL 39 - Light-Screen
+LVL 47 - Safeguard
+LVL 55 - Solar-Beam
+ 
+#154 - Meganium
+LVL XX - Tackle
+LVL XX - Growl
+LVL XX - Razor-Leaf
+LVL XX - Reflect
+LVL 15 - Poison-Powder
+LVL 23 - Synthesis
+LVL 31 - Body-Slam
+LVL 41 - Light-Screen
+LVL 51 - Safeguard
+LVL 61 - Solar-Beam
+ 
+#155 - Cyndaquil
+LVL XX - Tackle
+LVL XX - Leer
+LVL 6 - Smoke-Screen
+LVL 12 - Ember
+LVL 19 - Quick-Attack
+LVL 27 - Flame-Wheel
+LVL 36 - Swift
+LVL 46 - Flamethrower
+ 
+#156 - Quilava
+LVL XX - Tackle
+LVL XX - Leer
+LVL 6 - Smoke-Screen
+LVL 12 - Ember
+LVL 21 - Quick-Attack
+LVL 31 - Flame-Wheel
+LVL 41 - Swift
+LVL 54 - Flamethrower
+ 
+#157 - Typhlosion
+LVL XX - Tackle
+LVL XX - Leer
+LVL XX - Smoke-Screen
+LVL XX - Ember
+LVL XX - Quick-Attack
+LVL XX - Flame-Wheel
+LVL 45 - Swift
+LVL 60 - Flamethrower
+ 
+#158 - Totodile
+LVL XX - Scratch
+LVL XX - Leer
+LVL 7 - Rage
+LVL 13 - Water-Gun
+LVL 20 - Bite
+LVL 27 - Scary-Face
+LVL 35 - Slash
+LVL 43 - Screech
+LVL 52 - Hydro-Pump
+ 
+#159 - Croconaw
+LVL XX - Scratch
+LVL XX - Leer
+LVL XX - Rage
+LVL 13 - Water-Gun
+LVL 21 - Bite
+LVL 28 - Scary-Face
+LVL 37 - Slash
+LVL 45 - Screech
+LVL 55 - Hydro-Pump
+ 
+#160 - Feraligator
+LVL XX - Scratch
+LVL XX - Leer
+LVL XX - Rage
+LVL XX - Water-Gun
+LVL 21 - Bite
+LVL 28 - Scary-Face
+LVL 38 - Slash
+LVL 47 - Screech
+LVL 58 - Hydro-Pump
+ 
+#161 - Sentret
+LVL XX - Tackle
+LVL 5 - Defense-Curl
+LVL 11 - Quick-Attack
+LVL 17 - Fury-Swipes
+LVL 25 - Slam
+LVL 33 - Rest
+LVL 41 - Amnesia
+ 
+#162 - Furret
+LVL XX - Tackle
+LVL 5 - Defense-Curl
+LVL 11 - Quick-Attack
+LVL 18 - Fury-Swipes
+LVL 28 - Slam
+LVL 38 - Rest
+LVL 48 - Amnesia
+ 
+#163 - Hoothoot
+LVL XX - Tackle
+LVL XX - Growl
+LVL 6 - Foresight
+LVL 11 - Peck
+LVL 16 - Hypnosis
+LVL 22 - Reflect
+LVL 28 - Take-Down
+LVL 34 - Confusion
+LVL 48 - Dream-Eater
+ 
+#164 - Noctowl
+LVL XX - Tackle
+LVL XX - Growl
+LVL 6 - Foresight
+LVL 11 - Peck
+LVL 16 - Hypnosis
+LVL 25 - Reflect
+LVL 33 - Take-Down
+LVL 41 - Confusion
+LVL 57 - Dream-Eater
+ 
+#165 - Ledyba
+LVL XX - Tackle
+LVL 8 - Supersonic
+LVL 15 - Comet-Punch
+LVL 22 - Light-Screen
+LVL 22 - Reflect
+LVL 22 - Safeguard
+LVL 29 - Baton-Pass
+LVL 36 - Swift
+LVL 43 - Agility
+LVL 50 - Double-Edge
+ 
+#166 - Ledian
+LVL XX - Tackle
+LVL 8 - Supersonic
+LVL 15 - Comet-Punch
+LVL 24 - Light-Screen
+LVL 24 - Reflect
+LVL 24 - Safeguard
+LVL 33 - Baton-Pass
+LVL 42 - Swift
+LVL 51 - Agility
+LVL 60 - Double-Edge
+ 
+#167 - Spinarak
+LVL XX - Poison-Sting
+LVL XX - String-Shot
+LVL 6 - Scary-Face
+LVL 11 - Constrict
+LVL 17 - Night-Shade
+LVL 23 - Leech-Life
+LVL 30 - Fury-Swipes
+LVL 37 - Spider-Web
+LVL 45 - Screech
+LVL 53 - Psychic
+ 
+#168 - Ariados
+LVL XX - Poison-Sting
+LVL XX - String-Shot
+LVL 6 - Scary-Face
+LVL 11 - Constrict
+LVL 17 - Night-Shade
+LVL 25 - Leech-Life
+LVL 34 - Fury-Swipes
+LVL 43 - Spider-Web
+LVL 53 - Screech
+LVL 63 - Psychic
+ 
+#169 - Crobat
+LVL XX - Leech-Life
+LVL XX - Screech
+LVL 6 - Supersonic
+LVL 12 - Bite
+LVL 19 - Confuse-Ray
+LVL 30 - Wing-Attack
+LVL 42 - Mean-Look
+LVL 55 - Haze
+ 
+#170 - Chinchou
+LVL XX - Bubble
+LVL XX - Thunderwave
+LVL 5 - Supersonic
+LVL 13 - Flail
+LVL 17 - Water-Gun
+LVL 25 - Spark
+LVL 29 - Confuse-ray
+LVL 37 - Take-Down
+LVL 41 - Hydro-Pump
+ 
+#171 - Lanturn
+LVL XX - Bubble
+LVL XX - Thunderwave
+LVL 5 - Supersonic
+LVL 13 - Flail
+LVL 17 - Water-Gun
+LVL 25 - Spark
+LVL 33 - Confuse-Ray
+LVL 45 - Take-Down
+LVL 53 - Hydro-Pump
+ 
+#172 - Pichu
+LVL XX - Thundershock
+LVL XX - Charm
+LVL 6 - Tail-Whip
+LVL 8 - Thunderwave
+LVL 11 - Sweet-Kiss
+ 
+#173 - Cleffa
+LVL XX - Pound
+LVL XX - Charm
+LVL 4 - Encore
+LVL 8 - Sing
+LVL 13 - Sweet-Kiss
+ 
+#174 - Igglybuff
+LVL XX - Sing
+LVL XX - Charm
+LVL 4 - Defense-Curl
+LVL 9 - Pound
+LVL 14 - Sweet-Kiss
+ 
+#175 - Togepi
+LVL XX - Charm
+LVL XX - Growl
+LVL 7 - Metronome
+LVL 18 - Sweet-Kiss
+LVL 25 - Encore
+LVL 31 - Safeguard
+LVL 38 - Double-Edge
+ 
+#176 - Togechic
+LVL XX - Growl
+LVL 7 - Metronome
+LVL 18 - Sweet-Kiss
+LVL 25 - Encore
+LVL 31 - Safeguard
+LVL 38 - Double-Edge
+ 
+#177 - Natu
+LVL XX - Peck
+LVL XX - Leer
+LVL 10 - Night-Shade
+LVL 20 - Teleport
+LVL 30 - Future-Sight
+LVL 40 - Confuse-Ray
+LVL 50 - Psychic
+ 
+#178 - Xatu
+LVL XX - Peck
+LVL XX - Leer
+LVL XX - Night-Shade
+LVL 20 - Teleport
+LVL 35 - Future-Sight
+LVL 50 - Confuse-Ray
+LVL 65 - Psychic
+ 
+#179 - Mareep
+LVL XX - Tackle
+LVL XX - Growl
+LVL 9 - Thundershock
+LVL 16 - Thunderwave
+LVL 23 - Cotton-Spore
+LVL 30 - Light-Screen
+LVL 37 - Thunder
+ 
+#180 - Flaafly
+LVL XX - Tackle
+LVL XX - Growl
+LVL XX - Thundershock
+LVL 18 - Thunderwave
+LVL 27 - Cotton-Spore
+LVL 30 - ThunderPunch
+LVL 36 - Light-Screen
+LVL 45 - Thunder
+ 
+#181 - Ampharos
+LVL XX - Tackle
+LVL XX - Growl
+LVL XX - Thundershock
+LVL XX - Thunderwave
+LVL 27 - Cotton-Spore
+LVL 30 - ThunderPunch
+LVL 42 - Light-Screen
+LVL 57 - Thunder
+ 
+#182 - Bellossom
+LVL XX - Absorb
+LVL XX - Sweent-Scent
+LVL XX - Stun-Spore
+LVL XX - Petal-Dance
+LVL 55 - Solar-Beam
+ 
+#183 - Marill
+LVL XX - Tackle
+LVL XX - Defense-Curl
+LVL 6 - Tail-Whip
+LVL 10 - Water-Gun
+LVL 15 - Rollout
+LVL 21 - Bubble-Beam
+LVL 28 - Double-Edge
+LVL 36 - Rain-Dance
+ 
+#184 - Azumarill
+LVL XX - Tackle
+LVL XX - Defense-Curl
+LVL 6 - Tail-Whip
+LVL 10 - Water-Gun
+LVL 15 - Rollout
+LVL 25 - Bubble-Beam
+LVL 36 - Double-Edge
+LVL 48 - Rain-Dance
+ 
+#185 - Sudowoodo
+LVL XX - Rock-Throw
+LVL XX - Mimic
+LVL 10 - Flail
+LVL 19 - Low-Kick
+LVL 28 - Rock-Slide
+LVL 37 - Faint-Attack
+LVL 46 - Slam
+ 
+#186 - Politoed
+LVL XX - Water-Gun
+LVL XX - Hypnosis
+LVL XX - Doubleslap
+LVL 35 - Perish-Song
+LVL 51 - Swagger
+ 
+#187 - Hoppip
+LVL XX - Splash
+LVL XX - Synthesis
+LVL 5 - Tail-Whip
+LVL 10 - Tackle
+LVL 13 - Poison-Powder
+LVL 15 - Stun-Spore
+LVL 17 - Sleep-Powder
+LVL 20 - Leech-Seed
+LVL 25 - Cotton-Spore
+LVL 30 - Mega-Drain
+ 
+#188 - Skiploom
+LVL XX - Splash
+LVL XX - Synthesis
+LVL 5 - Tail-Whip
+LVL 10 - Tackle
+LVL 13 - Poison-Powder
+LVL 15 - Stun-Spore
+LVL 17 - Sleep-Powder
+LVL 22 - Leech-Seed
+LVL 29 - Cotton-Spore
+LVL 36 - Mega-Drain
+ 
+#189 - Jumpluff
+LVL XX - Splash
+LVL XX - Synthesis
+LVL 5 - Tail-Whip
+LVL 10 - Tackle
+LVL 13 - Poison-Powder
+LVL 15 - Stun-Spore
+LVL 17 - Sleep-Powder
+LVL 22 - Leech-Seed
+LVL 33 - Cotton-Spore
+LVL 44 - Mega-Drain
+ 
+#190 - Aipom
+LVL XX - Scratch
+LVL XX - Tail-Whip
+LVL 6 - Sand-Attack
+LVL 12 - Baton-Pass
+LVL 19 - Fury-Swipes
+LVL 27 - Swift
+LVL 36 - Screech
+LVL 46 - Agility
+ 
+#191 - Sunken
+LVL XX - Absorb
+LVL 4 - Growth
+LVL 10 - Mega-Drain
+LVL 19 - Sunny-Day
+LVL 31 - Synthesis
+LVL 46 - Giga-Draing
+ 
+#192 - Sunflora
+LVL XX - Absorb
+LVL XX - Pound
+LVL 4 - Growth
+LVL 10 - Razor-Leaf
+LVL 19 - Sunny-Day
+LVL 31 - Petal-Dance
+LVL 46 - Solar-Beam
+ 
+#193 - Yanma
+LVL XX - Tackle
+LVL XX - Foresight
+LVL 7 - Quick-Attack
+LVL 13 - Double-Team
+LVL 19 - Sonic-Boom
+LVL 25 - Detect
+LVL 31 - Supersonic
+LVL 37 - Swift
+LVL 43 - Screech
+ 
+#194 - Wooper
+LVL XX - Water-Gun
+LVL XX - Tail-Whip
+LVL 11 - Slam
+LVL 21 - Amnesia
+LVL 31 - Earthquake
+LVL 41 - Rain-Dance
+LVL 51 - Mist
+LVL 51 - Haze
+ 
+#195 - Quagsire
+LVL XX - Water-Gun
+LVL XX - Tail-Whip
+LVL 11 - Slam
+LVL 23 - Amnesia
+LVL 35 - Earthquake
+LVL 47 - Rain-Dance
+LVL 59 - Rain-Dance
+LVL 59 - Haze
+ 
+#196 - Espeon
+LVL XX - Tackle
+LVL XX - Tail-Whip
+LVL 8 - Sand-Attack
+LVL 16 - Confusion
+LVL 23 - Quick-Attack
+LVL 30 - Swift
+LVL 36 - Psybeam
+LVL 42 - Psych-Up
+LVL 47 - Psychic
+LVL 52 - Morning-Sun
+ 
+#197 - Umbreon
+LVL XX - Tackle
+LVL XX - Tail-Whip
+LVL 8 - Sand-Attack
+LVL 16 - Pursuit
+LVL 23 - Quick-Attack
+LVL 30 - Confuse-ray
+LVL 36 - Faint-Attack
+LVL 42 - Mean-Look
+LVL 47 - Screech
+LVL 52 - Moon-Light
+ 
+#198 - Murkrow
+LVL XX - Peck
+LVL 11 - Pursuit
+LVL 16 - Haze
+LVL 26 - Night-Shade
+LVL 31 - Faint-Attack
+LVL 41 - Mean-Look
+ 
+#199 - Slowking
+LVL XX - Tackle
+LVL XX - Slow-Wave
+LVL 6 - Growl
+LVL 15 - Water-Gun
+LVL 20 - Confusion
+LVL 29 - Disable
+LVL 34 - HeadButt
+LVL 37 - Wthdraw
+LVL 43 - Swagger
+LVL 54 - Psychic
+ 
+#200 - Misdreavus
+LVL XX - Growl
+LVL XX - Psy-Wave
+LVL 6 - Spite
+LVL 12 - Confuse-Ray
+LVL 19 - Mean-Look
+LVL 27 - Psybeam
+LVL 36 - Paint-Split
+LVL 46 - Perish-Song
+ 
+#201 - Unown
+LVL XX - Hidden-Power
+ 
+#202 - Wobbuffet
+LVL XX - Counter
+LVL XX - Mirror-Coat
+LVL XX - Safeguard
+LVL XX - Destiny-Bond
+ 
+#203 - Girafarig
+LVL XX - Tackle
+LVL XX - Growl
+LVL 7 - Confusion
+LVL 13 - Stomp
+LVL 20 - Agility
+LVL 30 - Batom-Pass
+LVL 41 - Psybeam
+LVL 54 - Crunch
+ 
+#204 - Pineco
+LVL XX - Tackle
+LVL XX - Defense
+LVL 8 - Self-Destruct
+LVL 15 - Take-Down
+LVL 22 - Rapid-Spin
+LVL 29 - Bide
+LVL 36 - Explosion
+LVL 43 - Spikes
+LVL 50 - Double-Edge
+ 
+#205 - Foretress
+LVL XX - Tackle
+LVL XX - Defense
+LVL 8 - Self-Destruct
+LVL 22 - Rapid-Spin
+LVL 29 - Bide
+LVL 39 - Explosion
+LVL 49 - Spikes
+LVL 59 - Double-Edge
+ 
+#206 - Dunsparce
+LVL XX - Rage
+LVL 5 - Defense-Curl
+LVL 13 - Glare
+LVL 18 - Spite
+LVL 26 - Pursuit
+LVL 30 - Screech
+LVL 38 - Take-Down
+ 
+#207 - Gligar
+LVL XX - Poison-Sting
+LVL 6 - Sand-Attack
+LVL 13 - Harden
+LVL 20 - Quick-Attack
+LVL 28 - Faint-Attack
+LVL 36 - Slash
+LVL 44 - Screech
+LVL 52 - Guilhotine
+ 
+#208 - Steelix
+LVL XX - Tackle
+LVL XX - Screech
+LVL 10 - Bide
+LVL 14 - Rock-Throw
+LVL 23 - Harden
+LVL 27 - Rage
+LVL 36 - Sandstorm
+LVL 40 - Slam
+LVL 49 - Crunch
+ 
+#209 - Snubull
+LVL XX - Tackle
+LVL XX - Leer
+LVL 4 - Tail-Whip
+LVL 8 - Charm
+LVL 13 - Bite
+LVL 19 - Lick
+LVL 26 - Roar
+LVL 34 - Rage
+LVL 43 - Take-Down
+ 
+#210 - Granbull
+LVL XX - Tackle
+LVL XX - Leer
+LVL XX - Tail-Whip
+LVL XX - Charm
+LVL 19 - Lick
+LVL 28 - Roar
+LVL 38 - Rage
+LVL 51 - Take-Down
+ 
+#211 - Qwilfish
+LVL XX - Tackle
+LVL XX - Poison-Sting
+LVL 10 - Harden
+LVL 10 - Minimize
+LVL 19 - Water-Gun
+LVL 28 - Pin-Missile
+LVL 37 - Take-Down
+LVL 46 - Hydro-Pump
+ 
+#212 - Scizor
+LVL XX - Quick-Attack
+LVL XX - Leer
+LVL 6 - Focus-Energy
+LVL 12 - Pursuit
+LVL 18 - False-Swipe
+LVL 24 - Agility
+LVL 30 - Metal-Claw
+LVL 36 - Slash
+LVL 42 - Swords-Dance
+LVL 48 - Double-Team
+ 
+#213 - Shuckle
+LVL XX - Constrict
+LVL XX - Withdraw
+LVL 9 - Wrap
+LVL 14 - Encore
+LVL 23 - Safeguard
+LVL 28 - Bide
+LVL 37 - Rest
+ 
+#214 - Heracross
+LVL XX - Tackle
+LVL XX - Leer
+LVL 6 - Horn-Attack
+LVL 12 - Endure
+LVL 19 - Fury-Attack
+LVL 27 - Counter
+LVL 35 - Take-Down
+LVL 44 - Reversal
+LVL 54 - MegaHorn
+ 
+#215 - Sneasel
+LVL 54 - MegaHorn
+LVL XX - Leer
+LVL 9 - Quick-Attack
+LVL 17 - Screech
+LVL 25 - Faint-Attack
+LVL 33 - Fury-Swipes
+LVL 41 - Agility
+LVL 49 - Slash
+LVL 57 - Beat-Up
+ 
+#216 - Teddiursa
+LVL XX - Scratch
+LVL XX - Leer
+LVL 8 - Lick
+LVL 15 - Fury-Swipes
+LVL 22 - Faint-Attack
+LVL 29 - Rest
+LVL 36 - Slash
+LVL 43 - Snore
+LVL 50 - Thrash
+ 
+#217 - Ursaring
+LVL XX - Scratch
+LVL XX - Leer
+LVL XX - Lick
+LVL XX - Fury-Swipes
+LVL XX - Faint-Attack
+LVL 29 - Rest
+LVL 39 - Slash
+LVL 49 - Snore
+LVL 59 - Thrash
+ 
+#218 - Slugma
+LVL XX - Smog
+LVL 8 - Ember
+LVL 15 - Rock-Throw
+LVL 22 - Harden
+LVL 29 - Amnesia
+LVL 36 - Flamethrower
+LVL 43 - Rock-Slide
+LVL 50 - Body-Slam
+ 
+#219 - Magcargo
+LVL XX - Smog
+LVL 8 - Ember
+LVL 15 - Rock-Throw
+LVL 22 - Harden
+LVL 29 - Amnesia
+LVL 36 - Flamethrower
+LVL 48 - Rock-Slide
+LVL 60 - Body-Slam
+ 
+#220 - Swinub
+LVL XX - Tackle
+LVL 10 - Power-Snow
+LVL 19 - Endure
+LVL 28 - Take-Down
+LVL 37 - Mist
+LVL 46 - Blizzard
+ 
+#221 - Piloswine
+LVL XX - Tackle
+LVL XX - Power-Snow
+LVL XX - Endure
+LVL XX - Take-Down
+LVL 33 - Fury-Attack
+LVL 42 - Mist
+LVL 56 - Blizzard
+ 
+#222 - Corsola
+LVL XX - Tackle
+LVL 7 - Harden
+LVL 13 - Bubble
+LVL 19 - Recover
+LVL 25 - Bubble-Beam
+LVL 31 - Spike-Cannon
+LVL 37 - Mirror-Coat
+LVL 43 - Ancientpower
+ 
+#223 - Remoraid
+LVL XX - Water-gun
+LVL 11 - Lock-On
+LVL 22 - Bubble-Beam
+LVL 22 - Psybeam
+LVL 22 - Aurora-Beam
+LVL 33 - Focus-Energy
+LVL 44 - Ice-Beam
+LVL 55 - Hyper-Beam
+ 
+#224 - Octillery
+LVL XX - Water-Gun
+LVL 11 - Constrict
+LVL 22 - Psybeam
+LVL 22 - Aurora-Beam
+LVL 22 - Bubble-Beam
+LVL 25 - Octazooka
+LVL 38 - Focus-Energy
+LVL 54 - Ice-Beam
+LVL 70 - Hyper-Beam
+ 
+#225 - Delibird
+LVL XX - Present
+ 
+#226 - Mantine
+LVL XX - Tackle
+LVL XX - Bubble
+LVL 10 - Supersonic
+LVL 18 - Bubble-Beam
+LVL 25 - Take-Down
+LVL 32 - Agility
+LVL 40 - Wing-Attack
+LVL 49 - Confuse-Ray
+ 
+#227 - Skarmory
+LVL XX - Leer
+LVL XX - Peck
+LVL 13 - Sand-Attack
+LVL 19 - Swift
+LVL 25 - Agility
+LVL 37 - Fury-Attack
+LVL 49 - Steel-Wing
+ 
+#228 - Houndour
+LVL XX - Leer
+LVL XX - Ember
+LVL 7 - Roar
+LVL 13 - Smog
+LVL 20 - Bite
+LVL 27 - Fain-Attack
+LVL 35 - Flamethrower
+LVL 43 - Crunch
+ 
+#229 - Houndoom
+LVL XX - Leer
+LVL XX - Ember
+LVL XX - Roar
+LVL XX - Smog
+LVL XX - Bite
+LVL 30 - Faint-Attack
+LVL 41 - Flamethrower
+LVL 52 - Crunch
+ 
+#230 - Kingdra
+LVL XX - Bubble
+LVL XX - Smoke-Screen
+LVL XX - Leer
+LVL XX - Water-Gun
+LVL 29 - Twister
+LVL 40 - Agility
+LVL 51 - Hydro-Pump
+ 
+#231 - Phamphy
+LVL XX - Tackle
+LVL XX - Growl
+LVL 9 - Defense-Curl
+LVL 17 - Flail
+LVL 25 - Take-Down
+LVL 33 - Rollout
+LVL 49 - Double-Edge
+ 
+#232 - Donphan
+LVL XX - Tackle
+LVL XX - Growl
+LVL XX - Defense-Curl
+LVL XX - Flail
+LVL 25 - Fury-Swipes
+LVL 33 - Rollout
+LVL 41 - Rapid-Spin
+LVL 49 - Earthquake
+ 
+#233 - Porygon2
+LVL XX - Conversion-2
+LVL XX - Tackle
+LVL XX - Conversion
+LVL 9 - Agility
+LVL 12 - Psybeam
+LVL 20 - Recover
+LVL 24 - Defense-Curl
+LVL 32 - Lock-On
+LVL 36 - Tri-Attack
+LVL 44 - Zap-Cannon
+ 
+#234 - Stantler
+LVL XX - Tackle
+LVL 8 - Leer
+LVL 15 - Hypnosis
+LVL 23 - Stomp
+LVL 31 - Sand-Attack
+LVL 40 - Take-Down
+LVL 49 - Confuse-Ray
+ 
+#235 - Smeargle
+LVL XX - Sketch
+LVL 11 - Sketch
+LVL 21 - Sketch
+LVL 31 - Sketch
+LVL 41 - Sketch
+LVL 51 - Sketch
+LVL 61 - Sketch
+LVL 71 - Sketch
+LVL 81 - Sketch
+LVL 91 - Sketch
+ 
+#236 - Tyrogue
+LVL XX - Tackle
+ 
+#237 - Hitmontop
+LVL XX - Rolling-Kick
+LVL 7 - Focus-Energy
+LVL 13 - Pursuit
+LVL 19 - Quick-Attack
+LVL 25 - Rapid-Spin
+LVL 31 - Counter
+LVL 37 - Agility
+LVL 43 - Detect
+LVL 49 - Triple-Kick
+ 
+#238 - Smoochun
+LVL XX - Pound
+LVL XX - Lick
+LVL 9 - Sweet-Kiss
+LVL 13 - Snow-Power
+LVL 21 - Confusion
+LVL 25 - Sing
+LVL 33 - Mean-Look
+LVL 37 - Psychic
+LVL 45 - Perish-Song
+LVL 49 - Blizzard
+ 
+#239 - Elekid
+LVL XX - Quick-Attack
+LVL XX - Leer
+LVL 9 - ThunderPunch
+LVL 17 - Light-Screen
+LVL 25 - Swift
+LVL 33 - Screech
+LVL 41 - Thunderbolt
+LVL 49 - Thunder
+ 
+#240 - Magby
+LVL XX - Ember
+LVL 7 - Leer
+LVL 13 - Smog
+LVL 19 - Firepunch
+LVL 25 - Smoke-Screen
+LVL 31 - Sunny-Day
+LVL 37 - Flamethrower
+LVL 43 - Confuse-Ray
+LVL 49 - Fire-Blast
+ 
+#241 - Miltank
+LVL XX - Tackle
+LVL 4 - Growl
+LVL 8 - Defense-Curl
+LVL 13 - Stomp
+LVL 19 - Milk-Drink
+LVL 26 - Bide
+LVL 34 - Rollout
+LVL 43 - Body-Slam
+LVL 53 - Heal-Bell
+ 
+#242 - Blissey
+LVL XX - Pound
+LVL 4 - Growl
+LVL 7 - Tail-Whip
+LVL 10 - Softboiled
+LVL 13 - Doubleslap
+LVL 18 - Minimize
+LVL 23 - Sing
+LVL 28 - Egg-Bomb
+LVL 33 - Defense-Curl
+LVL 40 - Light-Screen
+LVL 47 - Double-Edge
+ 
+#243 - Raikou
+LVL XX - Bite
+LVL XX - Leer
+LVL XX - Thundershock
+LVL XX - Roar
+LVL XX - Quick-Attack
+LVL 41 - Spark
+LVL 51 - Reflect
+LVL 61 - Crunch
+LVL 71 - Thunder
+ 
+#244 - Entei
+LVL XX - Bite
+LVL XX - Leer
+LVL XX - Ember
+LVL XX - Roar
+LVL XX - Fire-Spin
+LVL 41 - Stomp
+LVL 51 - Flamethrower
+LVL 61 - Swagger
+LVL 71 - Fireblast
+ 
+#245 - Suicune
+LVL XX - Bite
+LVL XX - Leer
+LVL XX - Water-Gun
+LVL XX - Roar
+LVL 31 - Gust
+LVL 41 - Bubble-Beam
+LVL 51 - Mist
+LVL 61 - Mirror-Coat
+LVL 71 - Hydro-Pump
+ 
+#246 - Larvitar
+LVL XX - Bite
+LVL XX - Leer
+LVL 8 - Sandstomr
+LVL 15 - Screech
+LVL 22 - Rock-Slide
+LVL 29 - Thrash
+LVL 36 - Scary-Face
+LVL 43 - Crunch
+LVL 50 - Earthquake
+LVL 57 - Hyper-Beam
+ 
+#247 - Pupitar
+LVL XX - Bite
+LVL XX - Leer
+LVL XX - Sandstorm
+LVL XX - Screech
+LVL XX - Rock-Slide
+LVL XX - Thrash
+LVL 38 - Scary-Face
+LVL 47 - Crunch
+LVL 56 - Earthquake
+LVL 65 - Hyper-Beam
+ 
+#248 - Tyranitar
+LVL XX - Bite
+LVL XX - Leer
+LVL XX - Sandstorm
+LVL XX - Screech
+LVL XX - Rock-Slide
+LVL XX - Thrash
+LVL XX - Scary-Face
+LVL XX - Crunch
+LVL 61 - Earthquake
+LVL 75 - Hyper-Beam
+ 
+#249 - Lugia
+LVL XX - Aeroblast
+LVL 11 - Safeguard
+LVL 22 - Gust
+LVL 33 - Recover
+LVL 44 - Hydro-Pump
+LVL 55 - Rain-Dance
+LVL 66 - Swift
+LVL 77 - Whirlwind
+LVL 88 - Ancidentpower
+LVL 99 - Future-Sight
+ 
+#250 - Ho-oh
+LVL XX - Sacred-Fire
+LVL 11 - Safeguard
+LVL 22 - Gust
+LVL 33 - Recover
+LVL 44 - Fire-Blast
+LVL 55 - Sunny-Day
+LVL 66 - Swift
+LVL 77 - Whirlwind
+LVL 88 - Ancidentpower
+LVL 99 - Future-Sight
+ 
+#251 - Celebi
+LVL XX - Leech-Seed
+LVL XX - Confusion
+LVL XX - Heal-Bell
+LVL XX - Recover
+LVL 10 - Safeguard
+LVL 20 - Ancientpower
+LVL 30 - Future-Sight
+LVL 40 - Batom-Pass
+LVL 50 - Perish-Song
+ 
+[ #PkBR ]

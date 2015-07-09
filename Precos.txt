@@ -1,0 +1,36 @@
+ _________________________________
+|   |PkBR - Tabela de precos  |   |
+|    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯    |
+| * Bolas			  |
+|				  |
+| - Pokeball 		= $0300	  |
+| - Greatball		= $0400	  |
+| - Ultraball		= $0500	  |
+| - Masterball		= $0600	  |
+|				  |
+| * Pocoes			  |
+|				  |
+| - Potion		= $0300	  |
+| - Superpotion		= $0400	  |
+| - Hyperpotion		= $0500	  |
+| - Maxpotion		= $0700	  |
+|				  |
+| * TMs e HMs			  |
+|				  |
+| - Qualquer TM ou HM	= $2500	  |
+|				  |
+| - P/ comprar: @Comprar TM [N]	  |
+| - P/ usar: @Usar TM[N] ID	  |
+| - O mesmo com os HMs		  |
+|				  |
+| * Pedras de evolucao		  |
+|				  |
+| - Qualquer pedra	= $2500	  |
+|				  |
+| - P/ comprar: @Comprar [X] Stone|
+| - P/ usar: @Usar [X]Stone ID	  |
+|				  |
+| * Outros			  |
+|				  |
+| - Rarecandy		= $0500	  |
+|_________________________________|

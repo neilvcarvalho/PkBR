@@ -1,0 +1,3 @@
+Versão atual: $versao
+Novidades da versão $versao $+ : Preços alterados, de acordo com o game / Quem lutar ou capturar deve esperar 5 minutos para entrar novamente na fila / Adicionadas proteções de flood e repetição (nos comandos)
+

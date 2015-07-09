@@ -1,0 +1,127 @@
+× Lista de comandos ×
+
+[No canal]
+* @Descadastrar
+- Te descadastra
+* @Treinar ID
+- Treina o pokemon ID
+* @Capturar ID
+- Faz uma captura usando o pokemon ID
+* @Desafiar nick ID
+- Desafia alguém, numa luta onde você usará o pokemon ID
+* @Emprestimo quantia
+- Pede dinheiro emprestado ao bot
+* @Pagar quantia
+- Paga parte da dívida
+* @Info
+- Pega informações da luta
+* @Dados nick
+- Pega informações de alguém
+* @Evoluir ID
+- Evolui seu pokémon ID, se ele puder evoluir.
+* @Pontos nick
+- Pega a pontuação de alguém.
+* @Comprar item
+- Compra algum item.
+* @Vender item
+- Vende algum item, pela metade do preço.
+* @Loja
+- Pega a lista de itens.
+* @Usar item [ID]
+- Usa algum item - ID é necessário nos comandos fora de luta.
+* @Pokedex pokemon
+- Pega informações de determinado pokemon.
+* @Fila
+- Pega a fila de lutas.
+* @Capfila
+- Pega a fila de capturas.
+* @Golpe golpe
+- Ataca na luta.
+* @Sair <luta/cap>
+- Sai da fila de lutas ou capturas.
+* @Loteria <N1> <N2> <N3>
+- Você aposta em 3 números para um sorteio posterior, onde o prêmio mínimo é 500. Caso não haja vencedor, o valor do prêmio aumenta 500. Ex: @Loteria 1 4 7. A aposta custa $100
+* @Top50
+- Mostra os 50 melhores treinadores do canal.
+* @Gym tipo ID
+- Te coloca na fila de lutas contra um ginásio, valendo insígnea.
+* @Gyms
+- Lista os gyms disponíveis.
+* @TMDex <Número do pokémon>
+- Lista os TMs que algum pokémon pode usar.
+* @HMDex <Número do pokémon>
+- Lista os HMs que algum pokémon pode usar.
+
+
+[No PVT de PkBR]
+
+* @Cadastrar
+- Te cadastra como treinador do PokéBR.
+* @Pass [nova senha]
+- Seta uma nova senha.
+* @Identify senha
+- Efetua a identificação.
+* @Memo [read/list/del] N
+- Read: Lê algum memo enviado a você.
+- List: Pega sua lista de memos.
+- Del: Apaga algum memo.
+- N: Número do memo.
+* @Aceitar nick ID
+- Aceita um desafio de nick usando o pokemon ID.
+* @Rejeitar nick
+- Rejeita o desafio de nick.
+
+[Para usuários especiais/Canal]
+
+* !Vencedor Player[X]
+- Faz o player [x] vencer a luta atual.
+* !Pular
+- Pula o turno.
+* !Vender [Vendedor] [ID] [Comprador] [Preço]
+- Vende algum pokemon.
+* !Trocar [Trocador 1] [ID 1] [Trocador 2] [ID 2]
+- Troca algum pokemon (modo 1x1).
+* !Luta [Player 1] [N 1] [Player 2] [N 2]
+- Faz acontecer alguma luta que não esteja na fila, sem valer.
+* !NaoLutar nick
+- Faz nick sair da fila de lutas.
+* !NaoCapturar nick
+- Faz nick sair da fila de capturas.
+* !TM[1/2] Golpe
+- Faz Player[1/2] poder usar algum golpe.
+* !Favorecer Player[X]
+- Favorece Player [X] na luta.
+* !Iniciar [Luta/Captura]
+- Inicia uma luta ou captura, caso não seja iniciada automaticamente por causa de algum erro.
+* !Loteria [-f/-n]
+- -f = Quantos treinadores faltam para o sorteio ser realizado.
+- -n = Treinadores que apostaram na rodada atual.
+* !Zerar
+- Zera os dados da luta atual.
+
+[Para usuários especiais/Chat]
+* -o+v/-v+o/+o/-o/+v/-v/+b/-b [Nick]
+- Altera os modos de nick no canal. Caso nick não for colocado, a ação acontecerá com o nick que der o comando, excluindo +b/-b.
+* KB [Nick]
+- Kicka e bane [Nick] do canal.
+* Kick [Nick]
+- Kicka [Nick] do canal.
+--------------
+Somente OWNERS
+--------------
+* .Say [Texto]
+- Faz o bot falar algo no canal.
+* .Die
+- Desliga o bot.
+* .Com [Comando]
+- Faz o bot executar algum comando. Comando válido apenas para quem está rodando o bot. (Um tanto inútil)
+* .AddSL [Endereço]
+- Adiciona algum endereço na BAD LIST.
+* .DelSL [Endereço]
+- Inverso do comando anterior.
+* .GetSL
+- Pega os endereços da Bad List.
+* .AddOP [Nick] [Senha]
+- Adiciona [Nick] como OP do BOT com a senha [Senha].
+* .DelOP [Nick]
+- Remove [Nick] da lista de OPs do BOT.
